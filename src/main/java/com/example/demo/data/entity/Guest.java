@@ -14,7 +14,7 @@ public class Guest {
   private long guestId;
 
   @Column(name="FIRST_NAME")
-  private String FIRST_NAME;
+  private String FirstName;
 
   @Column(name="LAST_NAME")
   private String lastName;
